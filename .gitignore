@@ -1,0 +1,27 @@
+# Flutter/Dart build files
+/build/
+**/ios/Flutter/.last_build_id
+
+# Dart tool directories
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+
+# IDE specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS specific files
+.DS_Store
+*.log
+*.swp
+
+# Exclude specific files or directories
+# If you need to include specific files previously excluded
+# Uncomment the lines below and add specific files or directories
+
