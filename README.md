@@ -1,6 +1,6 @@
 # Todo List Flutter Uygulaması
 
-Basit ve kullanıcı dostu bir Flutter tabanlı To-Do List uygulaması. Görevlerinizi ekleyin, güncelleyin, silin ve tamamlanmış olarak işaretleyin. Firebase ile kimlik doğrulama ve Firestore ile gerçek zamanlı veri saklama özellikleri sunar. Kullanıcı kaydı ve giriş fonksiyonlarının yanı sıra, GetStorage kullanarak veri önbellekleme sağlar.
+Bu proje, Flutter kullanarak geliştirilmiş kullanıcı dostu bir Todo listesi uygulamasıdır. Kullanıcılar, todo (yapılacaklar) öğelerini ekleyebilir, güncelleyebilir, tamamlayabilir ve silebilir. Uygulama, Firebase ile kullanıcı kimlik doğrulama ve Firestore ile veri yönetimi gibi temel özellikleri destekler.
 
 ## Özellikler
 
@@ -8,4 +8,4 @@ Basit ve kullanıcı dostu bir Flutter tabanlı To-Do List uygulaması. Görevle
 - **Todo Yönetimi**: Todo ekleme, güncelleme, silme ve tamamlanma durumunu değiştirme.
 - **Arama ve Filtreleme**: Todo başlığı ve açıklaması ile arama yapma.
 - **Sekmeli Görünüm**: Tamamlanmış ve tamamlanmamış Todo'ları iki sekmede görüntüleme.
-- **Kullanıcı Çıkışı**: Giriş yapan kullanıcıların oturumlarını kapatabilmesi. 
+- **Responsive Tasarım**: Uygulamanın farklı ekran boyutlarına uyum sağlaması
