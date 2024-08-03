@@ -13,7 +13,11 @@ Bu proje, Flutter kullanarak geliştirilmiş kullanıcı dostu bir Todo listesi 
 ## Kullandığım Teknolojiler:
 
 **Flutter**: Hızlı ve etkili bir mobil uygulama geliştirme framework'ü olarak kullanıldı.
+
 **GetX**: Durum ve bağımlılık yönetimini kolaylaştırarak uygulamanın performansını artırdı.
+
 **GetStorage**: Kullanıcı verilerini hızlı bir şekilde yerel depolamak için tercih edildi.
+
 **Firebase Firestore**: Görevlerinizi ve kullanıcı verilerinizi güvenli bir şekilde saklamak ve senkronize etmek için kullanıldı.
+
 **Firebase Authentication**: Kullanıcı doğrulama işlemleri için güvenli bir altyapı sağladı.
